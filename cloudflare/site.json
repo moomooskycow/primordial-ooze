@@ -1,0 +1,8 @@
+{
+  "repo": "moomooskycow/primordial-ooze",
+  "source_commit": "b6ad3c5c9bac79c6d9e861a8ee001cc3f51cc4ab",
+  "source_folder": ".",
+  "project_prefix": "primordial-ooze",
+  "before_url": "https://moomooskycow.github.io/primordial-ooze/",
+  "build_kind": "static"
+}
